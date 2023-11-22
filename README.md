@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel
-- 👀 I’m interested in full-stack web development + app development.
-- 🌱 I’m currently learning game development.
+- 👀 I’m active in full-stack web development and API development.
+- 🌱 I’m always open to learn new technologies, fast!
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me rachelthedev@gmail.com
 
